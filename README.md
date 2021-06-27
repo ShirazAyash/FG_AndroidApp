@@ -33,7 +33,7 @@ Navigation of the plane is done by a range of controllers:
 ```
 * Connecting :
   * Enter in IP the IPv4 of the computer that is connected to the simulator
-     > **important : ** if you are running the FlightGear simulator and Android emulator on that same computer - **do not** use your localhost IP (127.0.0.1)
+     > **important :** if you are running the FlightGear simulator and Android emulator on that same computer - **do not** use your localhost IP (127.0.0.1)
   * Enter in port number 6400
   * Press 'connect' button
 * You are now connected to the flight simulator !
@@ -53,4 +53,4 @@ The separation of logic and design is visible in the UML.
 https://youtu.be/AGYCmEJU_LM
 [Demo of the app running and further explanation of the project]()
 
-**Enjoy ! **
+**Enjoy !**
